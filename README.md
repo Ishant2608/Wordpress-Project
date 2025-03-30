@@ -1,7 +1,7 @@
 README.md
 # WordPress Projects 
 
-## 🚀 Project 1: Home Page  
+## 🚀 Project 1: Jicama Cafe and Desserts  
 [![Home Page](https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Jicama%20Cafe%20and%20Desserts.jpg)](https://qzy.104.myftpupload.com/)
 
 ## ⚡ Project 2: Services Page  
