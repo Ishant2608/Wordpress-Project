@@ -22,6 +22,19 @@ This repository contains WordPress projects I have worked on. Currently, the web
         <br><b>Monster Dog</b>
       </a>
     </td>
+     <td align="center">
+      <a href="https://w4h.a80.myftpupload.com/">
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Beach%20Life%20Realty.jpg" width="250px">
+        <br><b>Beach Life Realty</b>
+      </a>
+    </td>
+
+    <td align="center">
+      <a href="https://w83.6dd.myftpupload.com/">
+        <img src="https://github.com/Ishant2608/Wordpress-Project/blob/main/Golka%20Electric%20Inc.jpg?raw=true" width="250px">
+        <br><b>Golka Electric Inc</b>
+      </a>
+    </td>
   </tr>
 </table>
 
