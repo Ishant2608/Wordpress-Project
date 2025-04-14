@@ -29,13 +29,7 @@ This repository contains WordPress projects I have worked on. Currently, the web
       </a>
     </td>
 
-    <td align="center">
-      <a href="https://w83.6dd.myftpupload.com/">
-        <img src="https://github.com/Ishant2608/Wordpress-Project/blob/main/Golka%20Electric%20Inc.jpg?raw=true" width="250px">
-        <br><b>Golka Electric Inc</b>
-      </a>
-    </td>
-  </tr>
+   
 </table>
 
 </div>
