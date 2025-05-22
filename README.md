@@ -12,30 +12,33 @@ This repository contains WordPress projects I have worked on. Currently, the web
   <tr>
     <td align="center">
       <a href="https://qzy.104.myftpupload.com/">
-        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Jicama%20Cafe%20and%20Desserts.jpg" width="250px">
-        <br><b>Jicama Cafe and Desserts</b>
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Jicama%20Cafe%20and%20Desserts.jpg" width="250px"><br>
+        <b>Jicama Cafe and Desserts</b>
       </a>
     </td>
     <td align="center">
       <a href="https://znf.5a7.myftpupload.com/">
-        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Monster%20Dog.jpg" width="250px">
-        <br><b>Monster Dog</b>
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Monster%20Dog.jpg" width="250px"><br>
+        <b>Monster Dog</b>
       </a>
     </td>
-     <td align="center">
+  </tr>
+  <tr>
+    <td align="center">
       <a href="https://w4h.a80.myftpupload.com/">
-        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Beach%20Life%20Realty.jpg" width="250px">
-        <br><b>Beach Life Realty</b>
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Beach%20Life%20Realty.jpg" width="250px"><br>
+        <b>Beach Life Realty</b>
       </a>
     </td>
-<td align="center">
+    <td align="center">
       <a href="https://womenwellnessfirst.in/">
-        <img src="https://github.com/Ishant2608/Wordpress-Project/blob/main/womenwellnessfirst-in-2025-05-22.png" width="250px">
-        <br><b>Women Wellness First</b>
+        <img src="https://github.com/Ishant2608/Wordpress-Project/blob/main/womenwellnessfirst-in-2025-05-22.png?raw=true" width="250px"><br>
+        <b>Women Wellness First</b>
       </a>
     </td>
-   
+  </tr>
 </table>
+
 
 </div>
 
