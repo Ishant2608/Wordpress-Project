@@ -1,37 +1,47 @@
-<!-- Add in <head> -->
-<link href="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/css/lightbox.min.css" rel="stylesheet" />
+# WordPress Projects  
 
-<!-- Add before </body> -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/lightbox2/2.11.3/js/lightbox.min.js"></script>
+This repository contains WordPress projects I have worked on. Currently, the websites are hosted on a **temporary domain**, as they are part of an office project. Once the final deployment is done on a permanent domain, the links will be updated.  
+
+<br>
+
+## 🔥 Project Gallery  
+
 <div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Jicama%20Cafe%20and%20Desserts.jpg" data-lightbox="projects" data-title="Jicama Cafe and Desserts">
-          <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Jicama%20Cafe%20and%20Desserts.jpg" width="250px"><br>
-          <b>Jicama Cafe and Desserts</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Monster%20Dog.jpg" data-lightbox="projects" data-title="Monster Dog">
-          <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Monster%20Dog.jpg" width="250px"><br>
-          <b>Monster Dog</b>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Beach%20Life%20Realty.jpg" data-lightbox="projects" data-title="Beach Life Realty">
-          <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Beach%20Life%20Realty.jpg" width="250px"><br>
-          <b>Beach Life Realty</b>
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/Ishant2608/Wordpress-Project/blob/main/womenwellnessfirst-in-2025-05-22.png?raw=true" data-lightbox="projects" data-title="Women Wellness First">
-          <img src="https://github.com/Ishant2608/Wordpress-Project/blob/main/womenwellnessfirst-in-2025-05-22.png?raw=true" width="250px"><br>
-          <b>Women Wellness First</b>
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://qzy.104.myftpupload.com/">
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Jicama%20Cafe%20and%20Desserts.jpg" width="250px"><br>
+        <b>Jicama Cafe and Desserts</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://znf.5a7.myftpupload.com/">
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Monster%20Dog.jpg" width="250px"><br>
+        <b>Monster Dog</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://w4h.a80.myftpupload.com/">
+        <img src="https://raw.githubusercontent.com/Ishant2608/Wordpress-Project/refs/heads/main/Beach%20Life%20Realty.jpg" width="250px"><br>
+        <b>Beach Life Realty</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://womenwellnessfirst.in/">
+        <img src="https://github.com/Ishant2608/Wordpress-Project/blob/main/womenwellnessfirst-in-2025-05-22.png?raw=true" width="250px"><br>
+        <b>Women Wellness First</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 </div>
+
+---
+
+> 🔹 **Note:** Since this is an official project, I do not own the domain, and it may change in the future.  
